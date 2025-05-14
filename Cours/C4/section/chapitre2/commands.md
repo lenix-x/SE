@@ -1,0 +1,18 @@
+### Made By .Lenix ()
+
+# Commands ()
+    Cd: The cd command is the shorthand version of the chdir command. The cd command is available in all versions of Windows, as well as in MS-DOS.
+    Cls: The cls command clears the screen of all previously entered commands and other text. The cls command is available in all versions of Windows, as well as in MS-DOS.
+    Color: The color command is used to change the colors of the text and background within the Command Prompt window. The color command is available in Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP.
+    Copy: The copy command does simply that — it copies one or more files from one location to another. The copy command is available in all versions of Windows, as well as in MS-DOS. The xcopy command is considered to be a more "powerful" version of the copy command.
+    Del: The del command is used to delete one or more files. The del command is available in all versions of Windows, as well as in MS-DOS. The del command is the same as the erase command.
+    Deltree: The deltree command is used to delete a directory and all the files and subdirectories within it. The deltree command is available in Windows 98 and 95, as well as in MS-DOS. Beginning in Windows XP, a folder and its files and subfolders can be removed using the /s function of the rmdir command. Deltree was no longer needed with this new rmdir ability so the command was removed.
+    Dir: The dir command is used to display a list of files and folders contained inside the folder that you are currently working in. The dir command also displays other important information like the hard drive's serial number, the total number of files listed, their combined size, the total amount of free space left on the drive, and more. The dir command is available in all versions of Windows, as well as in MS-DOS.
+    Echo: The echo command is used to show messages, most commonly from within script or batch files. The echo command can also be used to turn the echoing feature on or off. The echo command is available in all versions of Windows, as well as in MS-DOS.
+    Edit: The edit command starts the MS-DOS Editor tool which is used to create and modify text files. The edit command is available in MS-DOS as well as in all 32-bit versions of Windows. The edit command is not available in 64-bit versions of Windows.
+    Md: The md command is the shorthand version of the mkdir command. The md command is available in all versions of Windows, as well as in MS-DOS.
+    Path: The path command is used to display or set a specific path available to executable files. The path command is available in all versions of Windows, as well as in MS-DOS.
+    Ren: The ren command is the shorthand version of the rename command. The ren command is available in all versions of Windows, as well as in MS-DOS.
+    Tree: The tree command is used to graphically display the folder structure of a specified drive or path. The tree command is available in all versions of Windows, as well as in MS-DOS.
+    Undelete: The undelete command is used to undo a deletion performed with the MS-DOS delete command. The undelete command is only available in MS-DOS. The undelete command was removed beginning in Windows 95 due to the availability of the Recycle Bin in Windows. Additionally, free file recovery programs are available from third-party software makers.
+#
